@@ -9,6 +9,8 @@ son soluciones habituales a problemas que se presentan concurrentemente en la in
 ### patrones creacionales
 se centran en la creacion de objetos, incrementando la flexibilidad y reutilizando codigo existente.
 
+#### Factory Method
+
 
 ### patrones estructurales
 Basicamente explica como ensamblar objetos y clases en estructuras mas grandes.
